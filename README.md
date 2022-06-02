@@ -5,4 +5,4 @@ Mohammad Asem Soufi , x18191665
 
 ---
 
-run: 'bash script.sh'
+To run the script.sh run: 'bash script.sh'
