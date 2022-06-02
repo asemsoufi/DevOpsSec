@@ -12,3 +12,4 @@ cd ../
 touch .gitignore
 echo fol_1/ > .gitignore
 echo fol_2/ >> .gitignore
+echo "Job completed"
